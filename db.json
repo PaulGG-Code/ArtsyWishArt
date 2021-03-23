@@ -14,15 +14,29 @@
             "image": "https://ipfs.io/ipfs/QmQGn12sS543XTVWXQLTod1DdhBuA1nQKLTmKPz3RQVUQV",
             "name": "PaPazskin Christmas Edition"
         },
-        {
+                {
             "id": 2,
+            "description": "OlympicMascot",
+            "external_url": "LG",
+            "image": "https://ipfs.io/ipfs/Qmbg9EfcC9WRWyWTs47fDNvFULnuADLNxroKvmsiVBSzYz",
+            "name": "OlympicMascot"
+        },
+        {
+            "id": 3,
+            "description": "ReversePrayer",
+            "external_url": "LG",
+            "image": "https://ipfs.io/ipfs/QmQhgVXNWKn5d2ebBA9sQjRGeVmtavyzSGoQzjE9o8bhS7",
+            "name": "ReversePrayer"
+        },
+        {
+            "id": 4,
             "description": "Dirty Nighttime Adventurer Devils",
             "external_url": "ArtsyWishArt",
             "image": "https://ipfs.io/ipfs/QmdFYmCbJNZnM7k4Ciz6TviJQ9EbV2osrybvduEdFesUrX",
             "name": "Nighttime Devils"
         },
         {
-            "id": 3,
+            "id": 5,
             "description": "Hermes",
             "external_url": "ArtsyWishArt",
             "image": "https://ipfs.io/ipfs/QmTev4yroJvY6t8jjr1Yz1DqHhn7Drc1fwvSKLdspvpUsF",
