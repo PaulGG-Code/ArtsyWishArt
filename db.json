@@ -46,7 +46,7 @@
           	"id": 6,
   			"name": "Testing one",
   			"description": "This metadata is uploaded for testing.",
-  			"external_url": "https://www.digitalax.xyz",
+  			"external_url": "",
   			"image": "https://gateway.pinata.cloud/ipfs/QmPXjsA3uVVymnGdFvuUTKstw8SjDie6qrJoNaYSi8fSR2",
   			"attributes": [
     			{
